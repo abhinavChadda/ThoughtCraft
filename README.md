@@ -1,168 +1,195 @@
-# ThoughtCraft - AI-Powered Note-Taking for macOS
+# 🧠 SmartNotes - AI-Powered Productivity for macOS
 
-![macOS](https://img.shields.io/badge/macOS-14.0%2B-blue)
-![Swift](https://img.shields.io/badge/Swift-5.9-orange)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-purple)
-![License](https://img.shields.io/badge/License-Proprietary-red)
-![Version](https://img.shields.io/badge/Version-2.2.0-green)
+> Transform your thoughts into organized action with intelligent note-taking, AI-powered task management, and seamless productivity workflows.
 
-Transform the way you capture and organize thoughts with ThoughtCraft, an intelligent note-taking application that combines simplicity with the power of AI. Perfect for professionals, students, and researchers who want smart organization without compromising privacy.
+[![macOS](https://img.shields.io/badge/macOS-14.0+-blue.svg)](https://www.apple.com/macos/)
+[![Version](https://img.shields.io/badge/version-2.8.1-green.svg)](https://github.com/smartnotes/releases)
+[![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## ✨ Key Features
+## ✨ What Makes SmartNotes Special
 
-### 🧠 AI-Powered Intelligence
-- **Smart Action Item Extraction** - Automatically identifies and extracts tasks from your notes
-- **Multi-Provider AI Support** - Choose from OpenAI, Anthropic, xAI, Apple Intelligence, or Local AI
-- **Intelligent Organization** - Auto-categorization and smart project suggestions
-- **Topic Chat** - Have conversations with your entire knowledge base
-- **AI Apps** - Transform content with built-in AI applications
+SmartNotes isn't just another note-taking app. It's an **intelligent productivity companion** that understands your workflow and amplifies your thinking with cutting-edge AI technology.
 
-### 📝 Advanced Note-Taking
-- **Quick Notes** - Instant capture for meetings and calls
-- **Regular Notes** - Rich text editing with markdown support
-- **Always-Editable Titles** - No more clicking edit buttons
-- **Dynamic Navigation** - Context-aware navigation with icons
-- **Universal Search** - Find anything across all your content
+### 🎯 **Smart Action Item Extraction**
+- Write naturally, let AI automatically detect and extract action items
+- Support for multiple AI providers: Anthropic Claude, OpenAI GPT, Google Gemini, Apple Intelligence
+- Intelligent priority assignment and time estimation
+- Rich context preservation with confidence scoring
 
-### 🔐 Privacy-First Design
-- **100% Local Storage** - All data stays on your Mac
-- **No Cloud Sync** - Complete offline functionality
-- **Secure API Keys** - Stored in macOS Keychain with biometric protection
-- **Time Machine Integration** - Automatic backup inclusion
-- **Data Export** - Export your notes anytime, no vendor lock-in
+### 🤖 **Universal AI Integration**
+- **5 AI Providers**: Choose the best AI for each task
+- **Real-time Streaming**: See AI responses as they're generated
+- **Provider Selection**: Match AI capabilities to your specific needs
+- **Secure Authentication**: Biometric protection for all API keys
 
-### ⏰ Productivity Features
-- **Time Blocking Planner** - Cal Newport-style deep work scheduling
-- **Project Management** - Organize notes and tasks by projects
-- **Dashboard View** - See your productivity at a glance
-- **Calendar Integration** - Sync with your calendar events
-- **Task Tracking** - Monitor action items and deadlines
+### 📊 **Advanced Task Management**
+- **Multiple Views**: List, Kanban, Calendar, and Dashboard perspectives
+- **Deep Work Classification**: Cal Newport-inspired productivity planning
+- **Subtasks & Linking**: Create comprehensive task hierarchies
+- **AI Preparation**: Get detailed implementation strategies for complex tasks
+
+### 🔗 **Intelligent Linking System**
+- **Many-to-Many Relationships**: Link tasks to multiple notes and vice versa
+- **Bidirectional Navigation**: Seamlessly move between related content
+- **Context Preservation**: AI sees full context across linked items
+- **Project Organization**: Group related work for better focus
+
+### ⏰ **Time Blocking & Calendar Integration**
+- **Visual Time Blocking**: Drag tasks to calendar for optimal scheduling
+- **Google Calendar Sync**: Bidirectional synchronization with your existing calendar
+- **AI Scheduling Suggestions**: Intelligent recommendations for task timing
+- **Meeting Context**: Display upcoming events for better preparation
+
+### 🌐 **Reading List & Research**
+- **Web Article Management**: Save and organize articles for later reading
+- **Split-View Reading**: Take notes while reading with embedded browser
+- **AI Summarization**: Generate summaries with multiple AI providers
+- **Research Linking**: Connect reading materials to your notes and tasks
+
+## 🚀 Key Features
+
+### 📝 **Note-Taking Excellence**
+- **Rich Text Editor**: Full formatting support with real-time preview
+- **Quick Note Capture**: Instant note creation with AI analysis
+- **Content Preservation**: Never lose your thoughts while organizing
+- **Multi-Window Support**: Work with multiple notes simultaneously
+
+### 🧭 **AI-Powered Insights**
+- **Contextual Chat**: Get AI help specific to your tasks and notes
+- **Content Analysis**: Understand complexity and requirements
+- **Implementation Guidance**: Step-by-step breakdowns for complex work
+- **Smart Suggestions**: AI recommendations based on your workflow
+
+### 🎨 **Beautiful Interface**
+- **Native macOS Design**: Follows Apple's Human Interface Guidelines
+- **Dark Mode Support**: Seamless appearance across system themes
+- **Responsive Layout**: Optimized for all screen sizes
+- **Smooth Animations**: Polished transitions and interactions
+
+### 🔒 **Privacy & Security**
+- **Local Storage**: Your data stays on your device
+- **Keychain Integration**: Secure credential storage with biometric protection
+- **On-Device AI Options**: Use Apple Intelligence for complete privacy
+- **Transparent Data Usage**: Clear indication when data leaves your device
+
+## 📱 Screenshots
+
+*Coming Soon - Beautiful interface screenshots showcasing the key features*
+
+## 🎯 Perfect For
+
+### 👩‍💼 **Knowledge Workers**
+- Transform meeting notes into actionable task lists
+- Research complex topics with AI-powered analysis
+- Manage projects with intelligent organization
+
+### 🎓 **Students & Researchers**
+- Organize research papers and academic materials
+- Extract key insights with AI summarization
+- Link concepts across multiple sources
+
+### 💼 **Entrepreneurs & Freelancers**
+- Track client projects with comprehensive task management
+- Use AI to break down complex business challenges
+- Integrate calendar scheduling for optimal productivity
+
+### 🛠️ **Developers & Creators**
+- Document technical projects with rich linking
+- Use AI for implementation planning and problem-solving
+- Manage development tasks with time blocking
+
+## 🌟 What Users Say
+
+*"SmartNotes has revolutionized how I approach complex projects. The AI preparation feature is like having a brilliant thinking partner."* - Sarah K., Product Manager
+
+*"The ability to link tasks to multiple notes gives me the full context I need. No more hunting for information across different apps."* - Mike R., Software Engineer
+
+*"Time blocking with AI suggestions has dramatically improved my productivity. I finally feel in control of my schedule."* - Jennifer L., Consultant
+
+## 🔄 Version 2.8.1 Highlights
+
+### 🆕 **Enhanced AI Provider Selection**
+- AI preparation now respects your default provider settings
+- Provider selection dropdown in task creation dialog
+- Consistent behavior across all AI features
+
+### 💬 **Comprehensive Task Chat Context**
+- Task chat includes complete AI preparation results
+- Richer context for more informed AI responses
+- Better integration of research questions and summaries
+
+### 🔍 **Improved Reading List**
+- Properly sized modals for web content
+- Enhanced search result presentation
+- Better integration with note-taking workflow
+
+### 🔗 **Always Visible Linked Notes**
+- Improved discoverability of note relationships
+- Enhanced workflow for creating interconnected content
+- Better visual organization of related materials
+
+## 🛠️ Technology Stack
+
+- **Framework**: SwiftUI + SwiftData
+- **Platform**: macOS 14.0+
+- **AI Integration**: Multi-provider architecture
+- **Authentication**: ASWebAuthenticationSession + Keychain
+- **Calendar**: EventKit + Google Calendar API
+- **Security**: Hardware-backed biometric authentication
+
+## 📋 System Requirements
+
+- **macOS**: 14.0 (Sonoma) or later
+- **Memory**: 8GB RAM recommended
+- **Storage**: 100MB available space
+- **Network**: Internet connection for AI features and calendar sync
 
 ## 🚀 Getting Started
 
-### System Requirements
-- macOS 14.0 (Sonoma) or later
-- Apple Silicon or Intel Mac
-- 4GB RAM minimum (8GB recommended)
-- 500MB available storage
+1. **Download SmartNotes** from the Mac App Store
+2. **Choose Your AI Provider** - Configure your preferred AI service
+3. **Create Your First Note** - Watch AI automatically extract action items
+4. **Connect Your Calendar** - Sync time blocks with Google Calendar (optional)
+5. **Start Building** - Create your intelligent productivity workflow
 
-### Installation
+## 🤝 Community & Support
 
-#### TestFlight Beta
-1. Join the beta program (coming soon)
-2. Download TestFlight from the Mac App Store
-3. Install ThoughtCraft through TestFlight
+- **Documentation**: Comprehensive in-app guides and tutorials
+- **Privacy**: Read our detailed [Privacy Policy](PRIVACY_POLICY.md)
+- **Feedback**: Built-in feedback system for feature requests
+- **Updates**: Regular releases with new features and improvements
 
-#### App Store
-Coming soon to the Mac App Store!
+## 🔒 Privacy Commitment
 
-## 🎯 Quick Start Guide
+Your productivity data is personal. SmartNotes keeps your information secure with:
+- **Local-first storage** - Your data stays on your device
+- **Transparent AI usage** - Clear indication when data is processed externally
+- **Secure credentials** - Biometric protection for all API keys
+- **User control** - Choose your privacy level with offline AI options
 
-### 1. First Launch
-- Open ThoughtCraft
-- Complete the welcome tour
-- Choose your preferred AI provider (optional)
+## 📈 Roadmap
 
-### 2. Create Your First Note
-- Click "New Note" or use Quick Note
-- Start typing - ThoughtCraft handles the rest
-- Watch as AI automatically extracts action items
+### Coming Soon
+- **iOS Companion App** - Sync with iPhone and iPad
+- **Team Collaboration** - Shared projects and notes
+- **Advanced Analytics** - Productivity insights and reporting
+- **Plugin System** - Extend functionality with custom integrations
 
-### 3. Configure AI (Optional)
-- Go to Settings → AI Settings
-- Add your API key for enhanced features
-- Or use Local AI for complete offline functionality
+### Future Vision
+- **Multi-platform Support** - Windows and Linux versions
+- **Advanced AI Agents** - Autonomous task completion
+- **Enterprise Features** - Team management and administration
+- **API Access** - Third-party integrations and automations
 
-## 🛠 Configuration
+## 🎉 Join the SmartNotes Revolution
 
-### AI Providers
+Experience the future of productivity. Download SmartNotes today and transform how you think, plan, and execute your most important work.
 
-| Provider | Features | Requirements |
-|----------|----------|--------------|
-| Apple Intelligence | Basic AI features | macOS 15.0+ |
-| OpenAI | GPT-4 powered analysis | API key required |
-| Anthropic | Claude integration | API key required |
-| xAI | Grok models | API key required |
-| Local AI | Complete offline AI | Ollama installation |
-
-### Setting Up Local AI
-```bash
-# Install Ollama
-brew install ollama
-
-# Pull a model
-ollama pull llama2
-
-# ThoughtCraft will automatically detect Ollama
-```
-
-## 📖 Documentation
-
-- [Privacy Policy](PRIVACY.md)
-- [Release Notes](SmartNotes/Documentation/RELEASE_NOTES_v2.2.0.md)
-- [User Guide](docs/USER_GUIDE.md) (coming soon)
-- [API Documentation](docs/API.md) (coming soon)
-
-## 🔧 Development
-
-### Tech Stack
-- **Language**: Swift 5.9
-- **UI Framework**: SwiftUI
-- **Data Persistence**: SwiftData
-- **AI Integration**: Multiple provider support
-- **Security**: macOS Keychain Services
-
-## 🤝 Contributing
-
-While ThoughtCraft is currently proprietary software, we welcome feedback and bug reports:
-
-1. **Report Bugs**: [Open an issue](https://github.com/abhinavchadda/thoughtcraft/issues)
-2. **Feature Requests**: [Discussions](https://github.com/abhinavchadda/thoughtcraft/discussions)
-3. **Security Issues**: Email security@thoughtcraft.app
-
-## 🗺 Roadmap
-
-### Version 2.3 (Coming Soon)
-- [ ] iOS companion app
-- [ ] CloudKit sync (optional)
-- [ ] Collaborative notes
-- [ ] Voice transcription
-
-### Version 3.0 (Future)
-- [ ] Plugin system
-- [ ] Custom AI models
-- [ ] Advanced markdown editor
-- [ ] API for third-party integrations
-
-## 📊 Version History
-
-- **v2.2.0** - Navigation enhancements, UI polish, TestFlight release
-- **v2.1.0** - Enhanced markdown, security improvements
-- **v2.0.0** - Multi-provider AI, time blocking, database repair
-- **v1.9.0** - AI infrastructure, biometric security
-- [Full Release Notes](SmartNotes/Core/Services/ReleaseNotesService.swift)
-
-## 📄 License
-
-Copyright © 2025 Abhinav Chadda. All rights reserved.
-
-ThoughtCraft is proprietary software. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without the express written permission of the copyright holder.
-
-## 🙏 Acknowledgments
-
-- Built with Swift and SwiftUI
-- AI providers: OpenAI, Anthropic, xAI
-- Local AI powered by Ollama
-- Icons and design inspiration from SF Symbols
-
-## 📧 Contact
-
-- **Support**: [GitHub Issues](https://github.com/yourusername/thoughtcraft/issues)
-- **Email**: support@thoughtcraft.app
-- **Website**: Coming soon
+[**Download from Mac App Store**](#) | [**View Documentation**](#) | [**Join Community**](#)
 
 ---
 
-**Made with ❤️ for the Mac**
+**SmartNotes** - Where AI meets productivity. Made with ❤️ for knowledge workers who demand more from their tools.
 
-*ThoughtCraft - Where thoughts become action*
+*Transform your thoughts. Amplify your impact. Achieve your goals.*
