@@ -1,15 +1,15 @@
-# 🧠 SmartNotes - AI-Powered Productivity for macOS
+# 🧠 ThoughtCraft - AI-Powered Productivity for macOS
 
 > Transform your thoughts into organized action with intelligent note-taking, AI-powered task management, and seamless productivity workflows.
 
 [![macOS](https://img.shields.io/badge/macOS-14.0+-blue.svg)](https://www.apple.com/macos/)
-[![Version](https://img.shields.io/badge/version-2.8.1-green.svg)](https://github.com/smartnotes/releases)
+[![Version](https://img.shields.io/badge/version-2.8.1-green.svg)](https://github.com/ThoughtCraft/releases)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## ✨ What Makes SmartNotes Special
+## ✨ What Makes ThoughtCraft Special
 
-SmartNotes isn't just another note-taking app. It's an **intelligent productivity companion** that understands your workflow and amplifies your thinking with cutting-edge AI technology.
+ThoughtCraft isn't just another note-taking app. It's an **intelligent productivity companion** that understands your workflow and amplifies your thinking with cutting-edge AI technology.
 
 ### 🎯 **Smart Action Item Extraction**
 - Write naturally, let AI automatically detect and extract action items
@@ -101,7 +101,7 @@ SmartNotes isn't just another note-taking app. It's an **intelligent productivit
 
 ## 🌟 What Users Say
 
-*"SmartNotes has revolutionized how I approach complex projects. The AI preparation feature is like having a brilliant thinking partner."* - Sarah K., Product Manager
+*"ThoughtCraft has revolutionized how I approach complex projects. The AI preparation feature is like having a brilliant thinking partner."* - Sarah K., Product Manager
 
 *"The ability to link tasks to multiple notes gives me the full context I need. No more hunting for information across different apps."* - Mike R., Software Engineer
 
@@ -147,7 +147,7 @@ SmartNotes isn't just another note-taking app. It's an **intelligent productivit
 
 ## 🚀 Getting Started
 
-1. **Download SmartNotes** from the Mac App Store
+1. **Download ThoughtCraft** from the Mac App Store
 2. **Choose Your AI Provider** - Configure your preferred AI service
 3. **Create Your First Note** - Watch AI automatically extract action items
 4. **Connect Your Calendar** - Sync time blocks with Google Calendar (optional)
@@ -162,7 +162,7 @@ SmartNotes isn't just another note-taking app. It's an **intelligent productivit
 
 ## 🔒 Privacy Commitment
 
-Your productivity data is personal. SmartNotes keeps your information secure with:
+Your productivity data is personal. ThoughtCraft keeps your information secure with:
 - **Local-first storage** - Your data stays on your device
 - **Transparent AI usage** - Clear indication when data is processed externally
 - **Secure credentials** - Biometric protection for all API keys
@@ -182,14 +182,14 @@ Your productivity data is personal. SmartNotes keeps your information secure wit
 - **Enterprise Features** - Team management and administration
 - **API Access** - Third-party integrations and automations
 
-## 🎉 Join the SmartNotes Revolution
+## 🎉 Join the ThoughtCraft Revolution
 
-Experience the future of productivity. Download SmartNotes today and transform how you think, plan, and execute your most important work.
+Experience the future of productivity. Download ThoughtCraft today and transform how you think, plan, and execute your most important work.
 
 [**Download from Mac App Store**](#) | [**View Documentation**](#) | [**Join Community**](#)
 
 ---
 
-**SmartNotes** - Where AI meets productivity. Made with ❤️ for knowledge workers who demand more from their tools.
+**ThoughtCraft** - Where AI meets productivity. Made with ❤️ for knowledge workers who demand more from their tools.
 
 *Transform your thoughts. Amplify your impact. Achieve your goals.*
